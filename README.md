@@ -10,7 +10,7 @@ Para ver o código do projeto é simples.
 
 2 - Abrir a pasta
 
-3 - Abrir o arquivo index.html
+3 - Abrir o arquivo em alguma IDE.
 
 Pode ver também o site por aqui: 
 
