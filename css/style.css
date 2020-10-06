@@ -11,6 +11,7 @@ p {
 
 img {
     display:block;
+    max-width: 100%;
 }
 
 .btn {
@@ -195,6 +196,9 @@ img {
     text-align: center;
 }
 
+.produtos_lista li img {
+    margin: 0 auto;
+}
 .produtos_lista h3 {
     font-weight: bold;
     font-size: 18px;
